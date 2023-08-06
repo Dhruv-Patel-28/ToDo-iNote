@@ -1,0 +1,12 @@
+
+npm i express ---> node module
+npm i mongoose ----> module for makig easy to deal with mongodb
+
+npm i -D nodemon ----> for running 
+
+mongoose .\index.js 		/*  (May show error)  */
+
+So execute this command,
+npx nodemon index.js 
+
+(Make sure to set path "c/windows/sysem32" as path in user environment variables(You can check on youtube aswell))
